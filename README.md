@@ -1,4 +1,4 @@
-# NTiney-E
+# NTiny-E
 RISCV 32bit IMF MCU+FPU 65nm TSMC
 
 
